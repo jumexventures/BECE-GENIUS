@@ -1,0 +1,48 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+.idea/workspace.xml
+*.iml
+*.iws
+*.ipr
+*.apk
+
+# Android Studio captures
+captures/
+.externalNativeBuild
+.cxx
+
+# Kotlin
+kotlin-build/
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build outputs
+.gradle
+build
+
+# Local files
+*.log
+*.jks
+*.keystore
+
+# Test coverage
+coverage/
+.jacoco/
